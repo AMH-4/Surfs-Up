@@ -9,5 +9,5 @@ Determin if an ice cream shop business in Oahu is sustainable year-round. Gather
 
 # Results 
 
-![June_Summary_Statistics](June-SummaryStatisticas.png)
+![June_Summary_Statistics](June-SummaryStatistics.png)
 ![December_Summary_Statistics](December-SummaryStatistics.png)
